@@ -3,7 +3,7 @@
         {
             "route": "/*",
             "redirect": "https://theknot.com/davidhartandkellydixon",
-            "statusCode": 301
+            "statusCode": 302
         }
     ]
 }
